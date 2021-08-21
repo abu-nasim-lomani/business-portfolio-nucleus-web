@@ -1,0 +1,23 @@
+.toolsbar>ul>li{
+    padding:10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+}
+.toolsbar>ul>li>a{
+    
+    color:white;
+}
+
+.inner-tools-area{
+    width: 90%;
+    margin:auto;
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+    .toolbar-area {
+      display:none;
+    }
+  }

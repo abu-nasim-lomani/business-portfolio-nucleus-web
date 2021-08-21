@@ -1,0 +1,33 @@
+.service-container{
+    width: 90%;
+    margin:auto;
+    margin-top: 50px;
+    
+}
+.service{  
+    margin:auto;
+    
+    margin-top: 80px;
+}
+.service-box{
+    /* border:1px solid #000; */
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.637);
+    height:200px;
+    width:99%;
+    margin-bottom: 30px;
+    display:flex;
+    padding:10px
+}
+.service-box:hover{
+    box-shadow: 1px 1px 5px rgb(0, 0, 0);
+    background-color: rgba(231, 229, 229, 0.377);
+    transition:0.4ms;
+}
+.icon-part{
+    width: 200px;
+
+}
+
+.details-part{
+
+}

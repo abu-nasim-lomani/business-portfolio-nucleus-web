@@ -1,0 +1,25 @@
+.Navbar{
+    width:90%;
+    margin:auto;
+    padding: 30px 0px ;
+}
+.navbar-list>ul>li>a{
+    color:#ffffff;
+    font-size: 17px;
+}
+.navbar-list>ul>li>a:hover{
+    color:#392ddd;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .navbar-list{
+      display:none;
+    }
+  }
+@media only screen and (max-width: 890px) {
+    .dots{
+        display:none;
+      }
+  }

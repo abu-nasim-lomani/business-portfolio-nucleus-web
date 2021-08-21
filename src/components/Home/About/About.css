@@ -1,0 +1,25 @@
+.about-container{
+    background-color: #F9F9F9;
+}
+.about-part{
+    width: 90%;
+    margin: auto;
+    padding-top: 100px;
+}
+.about-1{
+    /* border: 1px solid black; */
+    box-shadow: 1px 1px 4px rgb(197, 194, 194);
+    margin-bottom: 20px;
+}
+.about-1 a p{
+    margin-bottom:0px;
+    padding: 15px;
+}
+/* .about-image{
+    background-image: url(../../../images//about/solutions/2.png);
+    height:80px;
+    width:100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
